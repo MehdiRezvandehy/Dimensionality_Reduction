@@ -1,0 +1,5 @@
+# Dimensionality_Reduction
+
+Most application of Machine Learning are based on supervised learning (labels are available); however, there may be vast majority of the available without labels. Dimensionality reduction is an unsupervised learning technique. It refers to techniques for reducing the number of input variables while keeping as much of the variability in the original data as possible. It is often useful to reduce the dimensionality when dealing with high dimensional data. This can be done by projecting the data to a lower dimensional subspace which captures the essence (most important) of the data. Dimensionality reduction lead to huge reduction in training time. Visualization of high-dimensional data can be achieved through dimensionality reduction. Dimensionality reduction can also reduce multicollinearity, mitigate overfitting problem and image compression. In this notebook, top dimensionality reduction algorithms including PCA, t-SNE, LLE and LDA will be discussed and implemented in Python.
+
+Python functions and data files to run this notebook are in my [Github](https://github.com/MehdiRezvandehy/Dimensionality_Reduction.git) page.
